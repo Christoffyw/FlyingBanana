@@ -13,5 +13,5 @@
 #include "beatsaber-hook/shared/utils/utils.h"
 
 // Define these functions here so that we can easily read configuration and log information from other files
-Configuration& getConfig();
+Configuration& getConfig(50);
 Logger& getLogger();
